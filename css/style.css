@@ -216,8 +216,10 @@ body {
 }
 
 #slide-1 {
-	background-image: url('../images/bg1.jpg');
-	color: #ffffff;
+	background-image: url('../images/last-supper-pixelated-3.jpg');
+  min-height: 800px;
+  opacity: 0.6;
+	color: #fff;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -233,7 +235,7 @@ body {
 }
 
 #slide-1 h1 {
-	padding-top: 130px;
+  padding-top: 30px;
 }
 
 @media (max-width: 991px) {
@@ -259,6 +261,10 @@ body {
 	
 	#home-row-1 h4 {
 		font-size: 32px;
+	}
+
+	#home-row-1 h4.no2 {
+    margin-top: 30px;
 	}
 	
 	#home-row-2 {
