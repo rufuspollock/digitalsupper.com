@@ -216,9 +216,7 @@ body {
 }
 
 #slide-1 {
-	background-image: url('../images/last-supper-pixelated-3.jpg');
-  min-height: 800px;
-  opacity: 0.6;
+	background-image: url('../images/bg1.jpg');
 	color: #fff;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
