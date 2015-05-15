@@ -236,6 +236,11 @@ body {
   padding-top: 30px;
 }
 
+#slide-1 .call-to-action a {
+  color: #fff;
+  font-style: italic;
+}
+
 @media (max-width: 991px) {
 	#slide-1 {
 		background-position: -70% 0, 170% 0;
@@ -305,7 +310,7 @@ body {
 	}
 }
 
-#slide-2 {
+.slide-2 {
 	background-color: #1abc9c;
 	color: #e4e6e5;
 	padding-top: 90px;
